@@ -6,7 +6,7 @@
 
 <!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="./banner.jpg" alt="banner" width="100%" />
+  <img src="./v6bnr.gif" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Koki 👋</h1>
